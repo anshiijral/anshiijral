@@ -99,7 +99,11 @@ I'm continuously building and experimenting with projects across **software engi
 * anshiijral4@gmail.com
 
 ---
+🎓 Education
 
+B.Tech / B.E. in Computer Science
+RV College of Engineering (RVCE)
+Expected Graduation: 2029
 ### 💡
 
 > **"Build things. Understand how they work. Keep learning."**
