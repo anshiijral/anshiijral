@@ -94,9 +94,9 @@ I'm continuously building and experimenting with projects across **software engi
 
 ## 📫 Connect
 
-* 💼 [LinkedIn](#)
-* 🌐 [Portfolio](#)
-* 📧 [Email](mailto:your-email@example.com)
+* https://leetcode.com/u/anshiijral/
+* https://in.linkedin.com/in/anshi-ijral
+* anshiijral4@gmail.com
 
 ---
 
